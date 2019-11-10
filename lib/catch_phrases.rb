@@ -9,4 +9,10 @@ def toadstool
 end
 
 def link 
-  saying = 
+  saying = "It's Dangerous To Go Alone! Take This."
+  puts saying
+end
+
+def any_phrase(phrase)
+  
+end
